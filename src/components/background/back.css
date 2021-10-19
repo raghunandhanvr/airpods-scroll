@@ -1,0 +1,20 @@
+.content{
+    height: 100vh;
+    background: #000000;
+    height: 500vh;
+}
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.canvas{
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    max-height: 50vh;
+    max-width: 50vw;
+    transform: translate(-50%, -50%);
+}
