@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/airpods-scroll/static/css/main.38c3c3f9.chunk.css",
+    "main.js": "/airpods-scroll/static/js/main.a41d627a.chunk.js",
+    "main.js.map": "/airpods-scroll/static/js/main.a41d627a.chunk.js.map",
+    "runtime-main.js": "/airpods-scroll/static/js/runtime-main.1c66d442.js",
+    "runtime-main.js.map": "/airpods-scroll/static/js/runtime-main.1c66d442.js.map",
+    "static/js/2.e31f835a.chunk.js": "/airpods-scroll/static/js/2.e31f835a.chunk.js",
+    "static/js/2.e31f835a.chunk.js.map": "/airpods-scroll/static/js/2.e31f835a.chunk.js.map",
+    "static/js/3.41469f33.chunk.js": "/airpods-scroll/static/js/3.41469f33.chunk.js",
+    "static/js/3.41469f33.chunk.js.map": "/airpods-scroll/static/js/3.41469f33.chunk.js.map",
+    "index.html": "/airpods-scroll/index.html",
+    "static/css/main.38c3c3f9.chunk.css.map": "/airpods-scroll/static/css/main.38c3c3f9.chunk.css.map",
+    "static/js/2.e31f835a.chunk.js.LICENSE.txt": "/airpods-scroll/static/js/2.e31f835a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c66d442.js",
+    "static/js/2.e31f835a.chunk.js",
+    "static/css/main.38c3c3f9.chunk.css",
+    "static/js/main.a41d627a.chunk.js"
+  ]
+}
